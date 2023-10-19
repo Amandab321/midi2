@@ -1,1 +1,4 @@
-# midi2
+## alterando javascript
+## desenvolvido por
+# Amanda Beatriz Matiello.
+
