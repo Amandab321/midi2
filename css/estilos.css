@@ -1,6 +1,6 @@
 :root {
-  --cinza: #ab54dd;
-  --vermelha: rgb(91, 12, 122);
+  --cinza: hsla(294, 81%, 62%, 0.756);
+  --vermelha: rgb(154, 73, 186);
   --vermelha-escura: hsl(282, 39%, 70%);
   --branca: #fff;
   --luz: rgb(229, 255, 0);
