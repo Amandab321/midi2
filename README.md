@@ -18,5 +18,5 @@ I'll be lovin' you right, seven days a week..." :flushed:
 #SURTOOS!!!:woozy_face:
 
 
-:zombie:OK...agora o assunto vai ficar sério, vamos falar sobre......Como sobreviver apocalipse zumbi?? :zombie::zombie::zombie::zombie::zombie:
+:zombie:OK...agora o assunto vai ficar sério, vamos falar sobre......Como sobreviver em um apocalipse zumbi?? :zombie::zombie::zombie::zombie::zombie:
 
