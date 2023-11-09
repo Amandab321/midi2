@@ -16,14 +16,12 @@ body {
   min-height: 100vh;
 }
 
-#titulo {
 h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
 }
 
-#tutulo {
 .teclado {
   background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
   box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
