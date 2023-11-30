@@ -38,5 +38,3 @@ tela.onclick = function () {
     }
 
 }
-
-}
