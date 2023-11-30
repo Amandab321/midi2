@@ -38,6 +38,3 @@ tela.onclick = function () {
             tecla.classList.remove ('ativa');
     }
 }
-
-}
-
