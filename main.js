@@ -23,7 +23,6 @@ const instrumento = tecla.classList [1];
 const tecla = idAudio = `#som_$ (instrumento)`; //template string
 
 tela.onclick = function () {
-
     tocaSom(idAudio);
 }
 
@@ -34,7 +33,8 @@ tela.onclick = function () {
     }
 
 }
-        tecla.okeydown = function () {
+    tecla.okeydown = function () {
             tecla.classList.remove ('ativa');
     }
+    
 }
