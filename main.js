@@ -36,5 +36,7 @@ tela.onclick = function () {
     tecla.okeydown = function () {
             tecla.classList.remove ('ativa');
     }
-    
+
+}
+
 }
